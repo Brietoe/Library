@@ -1,0 +1,12 @@
+{
+ "name": "@cc-tech/library",
+ "version": "0.0.0-alpha.0",
+ "description": "Helper Library",
+ "type": "module",
+ "main": "./Release/Library.js",
+ "author": "Brietoe <Brietoe@ComputerCowboy.tech>",
+ "license": "AGPL-3.0-or-later",
+ "devDependencies": {
+  "@types/node": "^16.7.13"
+ }
+}
